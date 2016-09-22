@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arduino IDE
+Exec=arduino
+Icon=com.arduino.App
+Comment=Arduino IDE makes it easy to write code and upload it to the board.
+Terminal=false
+Type=Application
+Categories=Development;IDE;Arduino
