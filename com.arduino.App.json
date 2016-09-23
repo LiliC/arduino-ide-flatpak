@@ -26,6 +26,16 @@
                   "type": "file",
                   "path": "Makefile",
                   "dest-filename": "Makefile"
+              },
+              {
+                  "type": "file",
+                  "path": "com.arduino.App.png",
+                  "dest-filename": "com.arduino.App.png"
+              },
+              {
+                  "type": "file",
+                  "path": "com.arduino.App.desktop",
+                  "dest-filename": "com.arduino.App.desktop"
               }
           ]
       }
