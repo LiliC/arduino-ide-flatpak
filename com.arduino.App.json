@@ -34,19 +34,10 @@
               },
               {
                   "type": "file",
-                  "path": "com.arduino.App.appdata.xml",
-                  "dest-filename": "com.arduino.App.appdata.xml"
-              },
-              {
-                  "type": "file",
                   "path": "com.arduino.App.desktop",
                   "dest-filename": "com.arduino.App.desktop"
-              }
-        ],
-        "post-install": [
-        	"mkdir -p /app/share/appdata",
-            "install -m644 -p com.arduino.App.appdata.xml /app/share/appdata/"
-        ]
+            }
+          ]
       }
   ]
 }
