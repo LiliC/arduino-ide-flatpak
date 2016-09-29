@@ -5,4 +5,5 @@ GenericName=Arduino IDE
 Comment=Open-source electronics prototyping platform
 Exec=arduino
 Icon=com.arduino.App
+Terminal=false
 Categories=Development;IDE;Electronics;

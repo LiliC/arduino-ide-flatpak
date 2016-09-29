@@ -19,8 +19,8 @@
           "sources" : [
               {
                   "type": "archive",
-                  "url": "http://downloads.arduino.cc/arduino-1.6.11-linux64.tar.xz",
-                  "sha256": "4930a8e613ef4a87d530dde93b60a097c8d200a9c908065eea426668433bfc73"
+                  "url": "http://downloads.arduino.cc/arduino-1.6.12-linux64.tar.xz",
+                  "sha256": "c4fd765eb58906aeafeffd7f9234c4709ac08f4195afbdd12133ba59d5711511"
               },
               {
                   "type": "file",
